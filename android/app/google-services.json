@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114350235108",
+    "project_id": "book-hotel-118259",
+    "storage_bucket": "book-hotel-118259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114350235108:android:68ddf1c8d81cc33b503bf1",
+        "android_client_info": {
+          "package_name": "com.bookhotel.book_hotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBPCaLZ6i1ibGJf36if1TaHGliBIx5Oqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
